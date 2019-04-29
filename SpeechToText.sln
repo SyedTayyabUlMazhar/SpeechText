@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechToText", "SpeechToText\SpeechToText.csproj", "{85AB04BE-8BFF-42D6-B259-1EEAC4C46DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85AB04BE-8BFF-42D6-B259-1EEAC4C46DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AB04BE-8BFF-42D6-B259-1EEAC4C46DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AB04BE-8BFF-42D6-B259-1EEAC4C46DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AB04BE-8BFF-42D6-B259-1EEAC4C46DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13C8E4F4-A578-4E7B-871F-366A29A2E243}
+	EndGlobalSection
+EndGlobal
